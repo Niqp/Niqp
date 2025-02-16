@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Niqp
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m a FullStack Web Developer
 - 📫 Reach me in Telegram @hukulll
 
